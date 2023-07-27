@@ -1,0 +1,1 @@
+{"uuid":"57e4e688-fd8f-4cc6-aa56-1107166f8784","name":"CriarUsuarioComHotmail()","children":["25c2131a-dde4-403e-94da-abdefc9490e5"],"befores":[],"afters":[{"name":"removerUsuarios","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1668025968708,"stop":1668025968713}],"start":1668025968690,"stop":1668025968715}

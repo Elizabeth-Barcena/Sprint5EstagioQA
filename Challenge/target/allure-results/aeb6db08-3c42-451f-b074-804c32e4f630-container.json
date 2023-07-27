@@ -1,0 +1,1 @@
+{"uuid":"aeb6db08-3c42-451f-b074-804c32e4f630","name":"CriarUsuarioComHotmail()","children":["92568460-5da4-4381-ba81-8a35c20a2cbe"],"befores":[],"afters":[{"name":"removerUsuarioDasValidacoes","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1668175012765,"stop":1668175012765}],"start":1668175012743,"stop":1668175012766}

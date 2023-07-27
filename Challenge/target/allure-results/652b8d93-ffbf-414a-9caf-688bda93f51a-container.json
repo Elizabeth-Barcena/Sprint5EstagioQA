@@ -1,0 +1,1 @@
+{"uuid":"652b8d93-ffbf-414a-9caf-688bda93f51a","name":"CriarUsuário()","children":["88f496e2-65c6-452a-be98-bc0ad7050aab"],"befores":[],"afters":[{"name":"removerUsuarioDasValidacoes","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1668168229162,"stop":1668168229172}],"start":1668168229137,"stop":1668168229174}

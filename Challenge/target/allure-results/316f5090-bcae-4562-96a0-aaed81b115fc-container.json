@@ -1,0 +1,1 @@
+{"uuid":"316f5090-bcae-4562-96a0-aaed81b115fc","name":"CriarUsuárioAdmEmBranco()","children":["043f9826-07fa-4bcd-86a1-fae00116ddf7"],"befores":[],"afters":[{"name":"removerUsuarios","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1668169068754,"stop":1668169068778}],"start":1668169066862,"stop":1668169068845}

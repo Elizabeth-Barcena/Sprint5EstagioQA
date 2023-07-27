@@ -1,0 +1,1 @@
+{"uuid":"e8ea511a-985a-40ee-b079-08d1c52e5300","name":"LogarSemSenha()","children":["cfb88e64-c980-47b3-977a-864e06c92fb1"],"befores":[],"afters":[{"name":"removerUsuarios","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1668024244178,"stop":1668024244186}],"start":1668024244131,"stop":1668024244187}

@@ -1,0 +1,1 @@
+{"uuid":"823a068d-0b28-4a42-93d9-98e6d046a748","name":"LoginComSenhaIncorreta()","children":["adaff23c-5e64-4f58-9260-6621bfe89217"],"befores":[],"afters":[{"name":"removerUsuarios","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1668163982280,"stop":1668163982290}],"start":1668163982229,"stop":1668163982292}

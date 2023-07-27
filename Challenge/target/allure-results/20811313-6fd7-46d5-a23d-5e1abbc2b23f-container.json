@@ -1,0 +1,1 @@
+{"uuid":"20811313-6fd7-46d5-a23d-5e1abbc2b23f","name":"CriarUsuarioComGmail()","children":["40b6d239-e84b-4bcd-b098-ba7821da8442"],"befores":[],"afters":[{"name":"removerUsuarioDasValidacoes","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1668176657987,"stop":1668176657987}],"start":1668176657937,"stop":1668176657988}

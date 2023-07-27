@@ -1,0 +1,1 @@
+{"uuid":"b7783aba-0d12-492c-9e42-3ce92ff36049","name":"CriarUsuárioEmailEmBranco()","children":["b373f5b2-9a2b-44cb-b7dd-d33dfe5af2c2"],"befores":[],"afters":[{"name":"removerUsuarioDasValidacoes","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1668176345839,"stop":1668176345839}],"start":1668176345816,"stop":1668176345840}

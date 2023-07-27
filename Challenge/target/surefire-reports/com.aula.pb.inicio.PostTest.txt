@@ -1,0 +1,20 @@
+-------------------------------------------------------------------------------
+Test set: com.aula.pb.inicio.PostTest
+-------------------------------------------------------------------------------
+Tests run: 15, Failures: 4, Errors: 0, Skipped: 0, Time elapsed: 0.687 s <<< FAILURE! - in com.aula.pb.inicio.PostTest
+CriarUsuarioComGmail  Time elapsed: 0.042 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <400> but was: <201>
+	at com.aula.pb.inicio.PostTest.CriarUsuarioComGmail(PostTest.java:225)
+
+SenhaAbaixoDe5  Time elapsed: 0.033 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <400> but was: <201>
+	at com.aula.pb.inicio.PostTest.SenhaAbaixoDe5(PostTest.java:309)
+
+SenhaAcimaDe10  Time elapsed: 0.035 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <400> but was: <201>
+	at com.aula.pb.inicio.PostTest.SenhaAcimaDe10(PostTest.java:337)
+
+CriarUsuarioComHotmail  Time elapsed: 0.048 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <400> but was: <201>
+	at com.aula.pb.inicio.PostTest.CriarUsuarioComHotmail(PostTest.java:252)
+

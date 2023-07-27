@@ -1,0 +1,1 @@
+{"uuid":"640f7ca2-0685-42a2-bc7e-3e488fa5eedd","name":"CriarUsuarioComEmailInvalido()","children":["f870ce1e-78b8-4123-ab01-cc762e920e5e"],"befores":[],"afters":[{"name":"removerUsuarios","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1668164205529,"stop":1668164205535}],"start":1668164205508,"stop":1668164205535}

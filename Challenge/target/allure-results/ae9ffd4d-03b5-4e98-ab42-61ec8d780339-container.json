@@ -1,0 +1,1 @@
+{"uuid":"ae9ffd4d-03b5-4e98-ab42-61ec8d780339","name":"CarrinhoGetTest","children":["98f1d59c-2417-4516-a7e6-57337461759f"],"befores":[{"name":"setupEnviroment","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1668767147579,"stop":1668767147582}],"afters":[],"start":1668767147537,"stop":1668767157549}

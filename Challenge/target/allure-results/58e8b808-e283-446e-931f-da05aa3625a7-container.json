@@ -1,0 +1,1 @@
+{"uuid":"58e8b808-e283-446e-931f-da05aa3625a7","name":"CriarUsuárioEmailEmBranco()","children":["80fc9526-ddd7-474f-bb71-309fae4a32cc"],"befores":[],"afters":[{"name":"removerUsuarios","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1668024246398,"stop":1668024246405}],"start":1668024246368,"stop":1668024246407}

@@ -1,0 +1,1 @@
+{"uuid":"283df77f-6430-4c4e-90e2-10a9090cfc52","name":"SenhaAcimaDe10()","children":["eae04bb5-30e0-4bf9-b7c9-0456ad459ff6"],"befores":[],"afters":[{"name":"removerUsuarioDasValidacoes","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1668175012726,"stop":1668175012738}],"start":1668175012702,"stop":1668175012740}

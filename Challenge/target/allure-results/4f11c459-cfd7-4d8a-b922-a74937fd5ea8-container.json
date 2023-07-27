@@ -1,0 +1,1 @@
+{"uuid":"4f11c459-cfd7-4d8a-b922-a74937fd5ea8","name":"SenhaAcimaDe10()","children":["c2e3d048-0de2-429c-b465-5275bdabbab3"],"befores":[],"afters":[{"name":"removerUsuarios","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1668025326698,"stop":1668025326704}],"start":1668025326679,"stop":1668025326706}

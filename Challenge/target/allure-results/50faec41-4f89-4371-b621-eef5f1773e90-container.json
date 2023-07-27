@@ -1,0 +1,1 @@
+{"uuid":"50faec41-4f89-4371-b621-eef5f1773e90","name":"LogarUsuarioValido()","children":["336f6084-2b23-4dae-93f7-511a2506c63c"],"befores":[],"afters":[{"name":"removerUsuarios","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1668025324453,"stop":1668025324461}],"start":1668025324420,"stop":1668025324462}

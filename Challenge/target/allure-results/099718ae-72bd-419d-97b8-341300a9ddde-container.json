@@ -1,0 +1,1 @@
+{"uuid":"099718ae-72bd-419d-97b8-341300a9ddde","name":"LogarSemSenhaComEspaço()","children":["ed1231d1-9ed4-4eab-a0fd-a06aff98aede"],"befores":[],"afters":[{"name":"removerUsuarios","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1668024244237,"stop":1668024244247}],"start":1668024244189,"stop":1668024244248}

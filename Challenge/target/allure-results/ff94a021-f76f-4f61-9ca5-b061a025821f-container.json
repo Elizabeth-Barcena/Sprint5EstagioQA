@@ -1,0 +1,1 @@
+{"uuid":"ff94a021-f76f-4f61-9ca5-b061a025821f","name":"LogarComUsuarioNãoExistente()","children":["8062aca1-0508-4541-84f7-f8e68a832f66"],"befores":[],"afters":[{"name":"removerUsuarios","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1668024244352,"stop":1668024244362}],"start":1668024244299,"stop":1668024244363}

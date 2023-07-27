@@ -1,0 +1,20 @@
+-------------------------------------------------------------------------------
+Test set: usuario.PostTest
+-------------------------------------------------------------------------------
+Tests run: 11, Failures: 4, Errors: 0, Skipped: 0, Time elapsed: 0.397 s <<< FAILURE! - in usuario.PostTest
+CriarUsuarioComGmail  Time elapsed: 0.04 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <400> but was: <201>
+	at usuario.PostTest.CriarUsuarioComGmail(PostTest.java:238)
+
+SenhaAbaixoDe5  Time elapsed: 0.03 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <400> but was: <201>
+	at usuario.PostTest.SenhaAbaixoDe5(PostTest.java:319)
+
+SenhaAcimaDe10  Time elapsed: 0.041 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <400> but was: <201>
+	at usuario.PostTest.SenhaAcimaDe10(PostTest.java:345)
+
+CriarUsuarioComHotmail  Time elapsed: 0.033 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <400> but was: <201>
+	at usuario.PostTest.CriarUsuarioComHotmail(PostTest.java:263)
+

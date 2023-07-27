@@ -1,0 +1,1 @@
+{"uuid":"aa7f6263-508c-4e04-b96c-c047cf6120e3","name":"CriarUsuárioPasswordEmBranco()","children":["dc65827d-64e3-4a31-952a-e7f2a3c02b8c"],"befores":[],"afters":[{"name":"removerUsuarios","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1668025968736,"stop":1668025968741}],"start":1668025968716,"stop":1668025968742}

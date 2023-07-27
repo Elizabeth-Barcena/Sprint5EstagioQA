@@ -1,0 +1,1 @@
+{"uuid":"c57940c8-45d3-4fd2-947e-b71009c0fed6","name":"CriarUsuárioNomeEmBranco()","children":["71c524de-2bed-4efb-81d6-9af52d1f10b1"],"befores":[],"afters":[{"name":"removerUsuarioDasValidacoes","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1668176775135,"stop":1668176775136}],"start":1668176775116,"stop":1668176775137}
